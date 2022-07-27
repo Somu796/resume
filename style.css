@@ -1,0 +1,99 @@
+body {
+  background-color: #FFCCD2;
+  font-family:serif;
+  font-size: 20px;
+  color: black;
+  margin: 0 0 0 0;
+
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  width:10%;
+border-color:#FFACB7;
+border-width:10px}
+
+h1{
+  color: #1A1A40;
+}
+
+h3{
+  color: #1A1A40;
+}
+
+.middle{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 15%;
+  width: 15%;
+}
+
+.textmiddle{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 10%;
+  width: 20%;
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.CD{
+  /*display: inline-block;*/
+  height: 35px;
+  width: 35px;
+  /*margin-left: 10;
+  margin-right: 10;*/
+}
+img:hover{
+  background-color: gold;
+}
+
+.FP{
+  background-color: #3186B2;
+  width: 100%;
+  height: 520px
+}
+
+.SP{
+  background-color: #C7EEFF;
+  width: 100%;
+  position: absolute;
+  top: 520px;
+  text-align: justify;
+}
+
+.TP{
+  background-color: #3186B2;
+  width: 100%;
+  position: absolute;
+  top: 1637.6px;
+  margin: auto auto auto auto;
+  text-align: justify;
+}
+
+.FText{
+  margin: auto auto auto auto;
+  /*height: 500px;*/
+  width: 1000px;
+  /*position: relative;
+  left: 400px;
+  top: 100px*/
+
+}
+
+/*.line{
+  width: 151.93;
+  position: relative;
+  bottom: 30px;
+}*/
+
+.TBFP{
+  margin: 0 auto 0 auto;
+}
+
+.PP{
+  border-radius: 50%;
+}
