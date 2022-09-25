@@ -61,7 +61,6 @@ img:hover {
 .SP {
   background-color: #C7EEFF;
   width: 100%;
-  /* position: absolute; */
   top: 500px;
   text-align: justify;
 }
@@ -69,7 +68,6 @@ img:hover {
 .TP {
   background-color: #3186B2;
   width: 100%;
-  /* position: absolute; */
   top: 1637.6px;
   margin: auto auto auto auto;
   text-align: justify;
@@ -78,18 +76,10 @@ img:hover {
 
 .FText {
   margin: auto auto auto auto;
-  /*height: 500px;*/
   width: 1000px;
-  /*position: relative;
-  left: 400px;
-  top: 100px*/
 }
 
-/*.line{
-  width: 151.93;
-  position: relative;
-  bottom: 30px;
-}*/
+
 .TBFP {
   margin: 0 auto 0 auto;
 }
